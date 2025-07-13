@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="heading">Random Colors</div>
+    <button id="btn">Click</button>
+    <h2 id="hexCode">#8a2be2</h2>
+    <script>
+      const btn = document.getElementById("btn");
+      let hex = document.getElementById("hexCode");
+      function randomColor() {
+        let letters = "0123456789ABCDEF";
+        let color = "#";
+        for (let i = 0; i < 6; i++) {
+          color += letters[Math.floor(Math.random() * 16)];
+        }
+        return color;
+      }
+      btn.addEventListener("click", () => {
+        document.body.style.backgroundColor = randomColor();
+        hexCode.innerHTML = randomColor();
+      });
+    </script>
+  </body>
+</html>
