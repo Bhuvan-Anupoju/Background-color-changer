@@ -11,19 +11,19 @@
 
 ## Features
 
--Random Color Generator: Generates a random hex or RGB color on each click.
+- Random Color Generator: Generates a random hex or RGB color on each click.
 
--Live Preview: Instantly updates the background color of the page.
+- Live Preview: Instantly updates the background color of the page.
 
--Color Code Display: Shows the current color code to the user.
+- Color Code Display: Shows the current color code to the user.
 
--Responsive Design: Works seamlessly across devices.
+- Responsive Design: Works seamlessly across devices.
 ## Technologies Used
--HTML: Structures the page with buttons and display elements.
+- HTML: Structures the page with buttons and display elements.
 
--CSS: Styles the layout, buttons, and transitions for a smooth user experience.
+- CSS: Styles the layout, buttons, and transitions for a smooth user experience.
 
--JavaScript: Handles the logic to generate random colors and apply them to the background.
+- JavaScript: Handles the logic to generate random colors and apply them to the background.
 
 ## 👦 About Me
 Hi, I'm Bhuvan, a passionate web developer with a strong foundation in HTML, CSS, and JavaScript. I enjoy building responsive and user-friendly web applications. I'm always eager to learn new technologies and enhance my skills to create meaningful digital experiences.
