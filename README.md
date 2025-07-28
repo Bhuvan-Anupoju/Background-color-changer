@@ -1,28 +1,29 @@
 # Background Color Changer
 
 #### 🔰overview
-- This is a visually appealing Netflix clone built using HTML, CSS, and JavaScript. It replicates the core look and feel of the original Netflix homepage, featuring a responsive layout, hero banner, and horizontal scrollable movie sections.
+- The Background Color Changer App is a simple and interactive web tool that allows users to dynamically change the background color of a webpage with a click of a button. It’s a great beginner-friendly project to understand DOM manipulation, event handling, and styling with CSS.
 ## Live Website
-#### 🚀Experience the Netflix Clone in Live!
+#### 🚀Experience the website in Live!
 🔗Live Demo :
-[Netflix Clone Live Link](https://bhuvan-anupoju.github.io/Netflix-Clone/)
+[Website Live Link](https://bhuvan-anupoju.github.io/Netflix-Clone/)
 ## Project Banner
 ![Project Banner](https://github.com/user-attachments/assets/d8d9816e-b0f1-4c9e-aedc-d7f85fbb8150)
 
 ## Features
 
-- Fully responsive design
+-Random Color Generator: Generates a random hex or RGB color on each click.
 
-- Eye-catching hero section with CTA buttons
+-Live Preview: Instantly updates the background color of the page.
 
-- Horizontal sliders for movie categories
+-Color Code Display: Shows the current color code to the user.
 
-- Hover effects on thumbnails
+-Responsive Design: Works seamlessly across devices.
+## Technologies Used
+-HTML: Structures the page with buttons and display elements.
 
-- Navigation bar with logo and menu items
+-CSS: Styles the layout, buttons, and transitions for a smooth user experience.
 
-- Contact  Page
-![Contact Page Screenshot](https://github.com/user-attachments/assets/c8d2fc64-7585-4162-ae8d-033731a556fe)
+-JavaScript: Handles the logic to generate random colors and apply them to the background.
 
 ## 👦 About Me
 Hi, I'm Bhuvan, a passionate web developer with a strong foundation in HTML, CSS, and JavaScript. I enjoy building responsive and user-friendly web applications. I'm always eager to learn new technologies and enhance my skills to create meaningful digital experiences.
@@ -32,4 +33,3 @@ Hi, I'm Bhuvan, a passionate web developer with a strong foundation in HTML, CSS
 - [My Portfolio](https://bhuvan-anupoju.github.io/Bhuvan.dev/)
 
 
-<img width="1333" height="631" alt="Untitled design" src="" />
